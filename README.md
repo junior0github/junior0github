@@ -15,11 +15,17 @@ I enjoy working at the intersection of hardware, software, and cybersecurity —
 
 ## 🧠 Skills
 **Languages:** C, C++, Python, Bash, Assembly (ARM Cortex-M)  
+
 **Development Boards:** ESP32, STM32-L475, Arduino Uno, Raspberry Pi 4 Compute Module
+
 **Embedded Tools:** STM32CubeIDE, Keil µVision, Zephyr RTOS
-**Hardware Interfaces:** UART, SPI, I²C, GPIO, ADC/DAC  
+
+**Hardware Communication Protocols:** UART, SPI, I²C
+
 **Security Concepts:** Secure Boot, Cryptography (SHA/AES/CRC), Threat Modeling, Firmware Tampering
+
 **IoT/Networking:** MQTT, Socket Programming, TCP/IP Stack
+
 **Other Tools:** Git, Linux, Docker, Wireshark
 
 ---
@@ -42,6 +48,6 @@ I enjoy working at the intersection of hardware, software, and cybersecurity —
 ## 🌱 Current Focus
 - Deepening knowledge in **secure firmware design** and **embedded threat mitigation**
 - Exploring **RF hacking/hardening** and **side-channel attack analysis**
-- Preparing for contributions to open-source embedded security and IoT firmware repositories
+- Preparing for contributions to **open-source** repositories
 
 ---
