@@ -22,7 +22,7 @@ I enjoy working at the intersection of hardware, software, and cybersecurity —
 
 **Hardware Communication Protocols:** UART, SPI, I²C
 
-**Security Concepts:** Secure Boot, Cryptography (SHA/AES/CRC), Threat Modeling, Firmware Tampering
+**Security Concepts:** Secure Boot, Cryptography (SHA/AES), Threat Modeling, Firmware Tampering
 
 **IoT/Networking:** MQTT, Socket Programming, TCP/IP Stack
 
